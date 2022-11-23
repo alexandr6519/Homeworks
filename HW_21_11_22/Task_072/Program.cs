@@ -14,5 +14,5 @@ else {
         numberAbs = numberAbs / 10;
         result = numberAbs  % 10;        
     }
-Console.WriteLine($"Inputing number has the theird digital is {result}!");
+Console.WriteLine($"The inputing number has the theird digital is {result}!");
 }
